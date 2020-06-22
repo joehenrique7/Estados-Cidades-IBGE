@@ -1,32 +1,32 @@
 [
   {
-    "CodigoUf": "12",
-    "Nome": "Acre",
-    "Uf": "AC",
-    "Regiao": "1"
+    "codigo_uf": "12",
+    "nome": "Acre",
+    "uf": "AC",
+    "regiao": "1"
   },
   {
-    "CodigoUf": "27",
-    "Nome": "Alagoas",
-    "Uf": "AL",
-    "Regiao": "2"
+    "codigo_uf": "27",
+    "nome": "Alagoas",
+    "uf": "AL",
+    "regiao": "2"
   },
   {
-    "CodigoUf": "16",
-    "Nome": "Amapá",
-    "Uf": "AP",
-    "Regiao": "1"
+    "codigo_uf": "16",
+    "nome": "Amapá",
+    "uf": "AP",
+    "regiao": "1"
   },
   {
-    "CodigoUf": "13",
-    "Nome": "Amazonas",
-    "Uf": "AM",
-    "Regiao": "1"
+    "codigo_uf": "13",
+    "nome": "Amazonas",
+    "uf": "AM",
+    "regiao": "1"
   },
   {
-    "CodigoUf": "29",
-    "Nome": "Bahia",
-    "Uf": "BA",
-    "Regiao": "2"
+    "codigo_uf": "29",
+    "nome": "Bahia",
+    "uf": "BA",
+    "regiao": "2"
   }
 ]

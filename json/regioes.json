@@ -2,24 +2,24 @@
     "success": true,
     "data": [
         {
-            "Id": 1,
-            "Nome": "Norte"
+            "id": 1,
+            "nome": "Norte"
         },
         {
-            "Id": 2,
-            "Nome": "Nordeste"
+            "id": 2,
+            "nome": "Nordeste"
         },
         {
-            "Id": 3,
-            "Nome": "Sudeste"
+            "id": 3,
+            "nome": "Sudeste"
         },
         {
-            "Id": 4,
-            "Nome": "Sul"
+            "id": 4,
+            "nome": "Sul"
         },
         {
-            "Id": 5,
-            "Nome": "Centro-Oeste"
+            "id": 5,
+            "nome": "Centro-Oeste"
         }
     ]
 }
